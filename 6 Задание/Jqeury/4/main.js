@@ -1,0 +1,1 @@
+$(':checkbox').prop('disabled', true);

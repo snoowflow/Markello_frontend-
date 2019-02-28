@@ -1,0 +1,1 @@
+$('h2').nextUntil('h2').next().prevUntil('h2').filter('p').css('color', 'red');

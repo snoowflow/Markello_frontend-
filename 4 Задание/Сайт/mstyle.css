@@ -1,0 +1,1875 @@
+@media(min-width: 0px) and (max-width: 320px){
+	
+	
+/* 1 */
+	.wrapper{
+		width: 100%;
+    	height: 100%;
+    	margin: 0px;
+    	padding: 0px;
+    	overflow-x: hidden;
+    } 
+	.our-container{
+		 padding-top: 30px;
+	}
+
+	.inner-header{
+		height: 70px;
+	}
+
+	.nav{
+		width: 97%;
+		height: 50px;
+		font-size: 10px;
+	}
+
+	.home,.portfolio,.aboutUs,.contact{
+		height: 50px;
+	}
+
+	.our-text-main{
+		flex-direction: column;
+		align-items: center;
+		width: 97%;
+		padding-bottom: 25px;
+	}
+
+	.ourStrongOrg {
+    	width: 91.317854%;
+    	display: flex;
+    	flex-direction: column;
+    	align-items: center;
+	}
+
+	.mainOur{
+		display: flex;
+		justify-content: center;
+		font-size: 17px;
+	}
+
+	.lorem{
+		width: 194px;
+    	padding-top: 10px;
+    	font-size: 11px;
+	}
+
+	.buttonContact{
+		justify-content: center;
+		height: 48px;
+		padding-bottom: 20px;
+	}
+
+	.contactUs{
+		width: 99px;
+    	font-size: 10px;
+    	height: 32px;
+	}
+
+	.video1{
+		padding-left: 0px;
+		width: 260px;
+		height: 157px;
+	}
+
+	iframe{
+		box-shadow: 0 0 60px rgb(202,198,198);
+	}
+
+/* 2 */
+	.doYou-text-main{
+		width: 97%;
+    	flex-direction: column;
+    	padding-top: 20px;
+	}
+
+	.doYouKnow {
+	    display: flex;
+	    align-items: center;
+	    flex-direction: column;
+	    width: 97%;
+   	}
+
+	.mainDoYou{
+		display: flex;
+    	justify-content: center;
+    	font-size: 17px;
+    	width: 70%;
+    	text-align: center;
+	}
+
+	.lorem-2-container{
+		width: 59.2%;
+		padding-top: 10px;
+		font-size: 11px;
+	}
+
+	.buttonLearn{
+		justify-content: center;
+    	height: 48px;
+    	padding-bottom: 20px;
+	}
+
+	.learnMore{
+		width: 99px;
+    	font-size: 10px;
+    	height: 32px;
+	}
+
+	.services{
+		width: 100%;
+		padding-left: 0px;
+	}
+
+	.text-services{
+		font-size: 11px;
+		padding-top: 0px;
+	}
+	
+	.management {
+    	padding-bottom: 10px;
+   	}
+
+	.services-main{
+		font-size: 8px;
+	}
+
+	.animation{
+		padding-top: 0px;
+	}
+
+	.Logo-Branding{
+		padding-top: 0px;
+	}
+
+	.logo-man, .logo-bran,.logo-UI{
+		width: 21%;
+	}
+
+	.logo-anim{
+		width: 27%;
+	}
+
+	.UI-UX-Design {
+       padding-bottom: 10px;
+	}
+
+	.services-main {
+    	font-size: 12px;
+	}
+
+	.lorem-2-2{
+		padding-top: 5px;
+		font-size: 11px;
+	}
+
+	.line-hr{
+		padding-top: 10px;
+		width: 97%;
+	}
+
+/* 3 */
+	.feature-contatiner{
+		padding-top: 0px;
+	}
+	
+	.feature-text-main{
+		width: 97%;
+	}
+
+	.mainFeature{
+		padding-top: 20px;
+		font-size: 17px;
+	}
+
+	.lorem-3-container{
+		width: 60%;
+		padding-top: 10px;
+		font-size: 11px;
+		padding-bottom: 20px;
+	}
+
+	.hr-feature{
+		margin-top: 20px;
+		height: 2px;
+		width: 43%;
+	}
+
+	.feature-but{
+		font-size: 8px;
+	}
+
+	.feature-nav{
+		width: 100%;
+     }
+
+	.feature-2block{
+		padding-top: 20px;
+	}
+	.block{
+		flex-wrap: wrap;
+		width: 115px;
+    	height: 115px;
+		margin-bottom: 11px;
+	}
+	
+/* 4 */
+	.meet-container{
+		padding-top:20px;
+	}
+
+	.mainMeet{
+		width: 100%;
+		font-size: 17px;
+		justify-content: center;
+	}
+
+	.meet-text-1block {
+	    align-items: center;
+	}
+
+	.lorem-4-container{
+		padding-top:15px;
+		font-size: 11px;
+		width: 69%;
+	}
+	
+	.hr-meet{
+		width: 43%;
+		margin-top: 15px;
+		margin-left: 24%;
+	}
+
+	.meet-text-2block{
+		padding-top:15px;
+	}
+
+	.big-block{
+		width: 60%;
+    	height: 47%;
+	}
+
+	.markWaugh-block{
+		width: 100%;
+		padding-top:20px;
+		padding-left: 0px;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+	}
+
+	.mark-main{
+		align-items: center;
+	}
+
+	.markWaugh{
+		width: 100%;
+    	font-size: 15px;
+    	justify-content: center;
+    	display: flex;		
+	}
+
+	.mark-lorem{
+		width: 113%;
+    	font-size: 11px;
+    	padding-top: 20px;
+	}
+
+	.facebook-block{
+		color: black;
+		font-size: 11px;
+		padding-top: 45px;
+		width: 83%;
+		height: 0px;
+	}
+
+	.social{
+		display: flex;
+		justify-content: center;
+		color:black;
+		height: 20px;
+	}
+
+	.meet-text-2block{
+		flex-wrap: wrap;
+		justify-content: center;
+	}
+
+	.big-block{
+		width: 56%;
+	}
+
+	.small-block{
+		padding-top:20px;
+		flex-wrap: wrap;
+		justify-content: space-around;
+		height: 45.8%;
+	}
+
+	.small{
+		width: 34.13%;
+   		height: 49%;
+	}
+
+	.small:hover .block-name{
+		font-size: 7px;
+	}
+
+/* 5 */
+	.desing-container{
+		margin-top:170px;
+		padding-top:20px;
+	}
+
+	.mainDesing{
+		font-size: 17px;
+		text-align: center;
+	}
+
+	.lorem-5-container{
+		padding-top:20px;
+		font-size: 11px;
+		padding-bottom: 32px;
+		text-align: center;
+	}
+
+	.input-4-container{
+  	    padding-bottom: 20px;
+  	    width: 100%;
+  	    flex-direction: column;
+  	    height: auto;
+  	    align-items: center;
+	}
+
+	.EmailAdress{
+		padding-left: 15px;
+		font-size: 10px;
+		width: 93%;
+		margin-bottom: 20px;
+		
+	}
+
+	.sub-button{
+		margin-left: 0px;
+    	width: 99px;
+    	font-size: 10px;
+    	height: 32px;
+	} 
+	
+/* 6 */
+	
+	.get-1container{
+
+		margin-top:30px
+	}
+
+	.get-1block{
+	align-items: center;
+	}
+
+	.mainGet{
+		justify-content: center;
+		font-size: 17px;
+		width: 51%;
+	}
+
+	.lorem-6-container{
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		padding-top:10px;
+		font-size:11px;
+		width: 100%;
+
+	}
+
+	.hr-get{
+		width: 43%;
+	   	margin-top: 25px;
+	
+	}
+
+	.get-1block{
+		padding-bottom: 35px;
+	}
+
+	.get-2-1block {
+	    padding-right: 5.5%;
+	    width: 46.42%;
+	    height: 100%;
+	    display: flex;
+	    flex-direction: column;
+	}
+
+	.name-email{
+		height: 28px;
+		flex-wrap: wrap;
+		padding-bottom: 26px;
+	}
+
+	.input-name{
+		width: 100%;
+		padding-left:5px;
+		font-size: 12px;
+		margin-bottom: 10px;
+
+
+	}
+
+	.input-mail{
+		width: 100%;
+		padding-left:5px;
+		font-size: 12px;
+		
+	}
+
+	textarea{
+		width: 95%;
+		height: 108px;
+		padding-left:5px;
+		font-size: 12px;
+		padding-top:17px;
+		margin-top: 30px;
+	}
+	
+	.send-message{
+	    font-size: 7px;
+   		height: 25px;
+   		margin-top:15px;
+	}
+	
+	.contact-info{
+		width: 44.21%;
+	}
+
+	.contactin{
+		margin-left: 20px;
+		margin-top:54px;
+		font-size: 8px;
+		height: 116px;
+	}
+
+	.inner-footer{
+		margin-top: 20px;
+		height: 77px;
+	}
+	
+	.social-foot{
+		font-size: 10px;
+	    height: 64px;
+	}
+
+	.socialicon{
+		float: right;
+		margin-left: 5px;
+	}
+
+}
+
+@media(min-width: 321px) and (max-width: 480px){
+/* 1 */
+	.wrapper{
+		width: 100%;
+    	height: 100%;
+    	margin: 0px;
+    	padding: 0px;
+    	overflow-x: hidden;
+    } 
+	.our-container{
+		 padding-top: 30px;
+	}
+
+	.inner-header{
+		height: 70px;
+	}
+
+	.nav{
+		width: 97%;
+		height: 50px;
+		font-size: 10px;
+	}
+
+	.home,.portfolio,.aboutUs,.contact{
+		height: 50px;
+	}
+
+	.our-text-main{
+		flex-direction: column;
+		align-items: center;
+		width: 97%;
+		padding-bottom: 25px;
+	}
+
+	.ourStrongOrg {
+    	width: 91.317854%;
+    	display: flex;
+    	flex-direction: column;
+    	align-items: center;
+	}
+
+	.mainOur{
+		display: flex;
+		justify-content: center;
+		font-size: 20px;
+	}
+
+	.lorem{
+		width: 230px;
+    	padding-top: 10px;
+    	font-size: 11px;
+	}
+
+	.buttonContact{
+		justify-content: center;
+		height: 48px;
+		padding-bottom: 20px;
+	}
+
+	.contactUs{
+		width: 99px;
+    	font-size: 10px;
+    	height: 32px;
+	}
+
+	.video1{
+		padding-left: 0px;
+		width: 260px;
+		height: 157px;
+	}
+
+	iframe{
+		box-shadow: 0 0 60px rgb(202,198,198);
+	}
+
+/* 2 */
+	.doYou-text-main{
+		width: 97%;
+    	flex-direction: column;
+    	padding-top: 20px;
+	}
+
+	.doYouKnow {
+	    display: flex;
+	    align-items: center;
+	    flex-direction: column;
+	    width: 97%;
+   	}
+
+	.mainDoYou{
+		display: flex;
+    	justify-content: center;
+    	font-size: 20px;
+    	width: 70%;
+    	text-align: center;
+	}
+
+	.lorem-2-container{
+		width: 59.2%;
+		padding-top: 10px;
+		font-size: 11px;
+	}
+
+	.buttonLearn{
+		justify-content: center;
+    	height: 48px;
+    	padding-bottom: 20px;
+	}
+
+	.learnMore{
+		width: 99px;
+    	font-size: 10px;
+    	height: 32px;
+	}
+
+	.services{
+		width: 100%;
+		padding-left: 0px;
+	}
+
+	.text-services{
+		font-size: 11px;
+		padding-top: 0px;
+	}
+	
+	.management {
+    	padding-bottom: 10px;
+   	}
+
+	.services-main{
+		font-size: 8px;
+	}
+
+	.animation{
+		padding-top: 0px;
+	}
+
+	.Logo-Branding{
+		padding-top: 0px;
+	}
+
+	.logo-man, .logo-bran,.logo-UI{
+		width: 25.92px;
+		height: 25.05px;
+	}
+
+	.logo-anim{
+		width: 33.33px;
+		height: 21.97px;
+	}
+
+	.UI-UX-Design {
+       padding-bottom: 10px;
+	}
+
+	.services-main {
+    	font-size: 12px;
+	}
+
+	.lorem-2-2{
+		padding-top: 5px;
+		font-size: 11px;
+	}
+
+	.line-hr{
+		padding-top: 10px;
+		width: 97%;
+	}
+
+/* 3 */
+	.feature-contatiner{
+		padding-top: 0px;
+	}
+	
+	.feature-text-main{
+		width: 97%;
+	}
+
+	.mainFeature{
+		padding-top: 20px;
+		font-size: 20px;
+	}
+
+	.lorem-3-container{
+		width: 60%;
+		padding-top: 10px;
+		font-size: 11px;
+		padding-bottom: 20px;
+	}
+
+	.hr-feature{
+		margin-top: 20px;
+		height: 2px;
+		width: 43%;
+	}
+
+	.feature-but{
+		font-size: 8px;
+	}
+
+	.feature-nav{
+		width: 100%;
+     }
+
+	.feature-2block{
+		padding-top: 20px;
+	}
+	.block{
+		flex-wrap: wrap;
+		width: 105px;
+    	height: 110px;
+		margin-bottom: 11px;
+	}
+	
+/* 4 */
+	.meet-container{
+		padding-top:20px;
+	}
+
+	.mainMeet{
+		width: 100%;
+		font-size: 20px;
+		justify-content: center;
+	}
+
+	.meet-text-1block {
+	    align-items: center;
+	}
+
+	.lorem-4-container{
+		padding-top:15px;
+		font-size: 11px;
+		width: 69%;
+	}
+	
+	.hr-meet{
+		width: 43%;
+		margin-top: 15px;
+		margin-left: 24%;
+	}
+
+	.meet-text-2block{
+		padding-top:15px;
+	}
+
+	.big-block{
+		width: 60%;
+    	height: 47%;
+	}
+
+	.markWaugh-block{
+		width: 100%;
+		padding-top:20px;
+		padding-left: 0px;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+	}
+
+	.mark-main{
+		align-items: center;
+	}
+
+	.markWaugh{
+		width: 100%;
+    	font-size: 17px;
+    	justify-content: center;
+    	display: flex;		
+	}
+
+	.mark-lorem{
+		width: 113%;
+    	font-size: 11px;
+    	padding-top: 20px;
+	}
+
+	.facebook-block{
+		color: black;
+		font-size: 11px;
+		padding-top: 45px;
+		width: 83%;
+		height: 0px;
+	}
+
+	.social{
+		display: flex;
+		justify-content: center;
+		color:black;
+		height: 20px;
+	}
+
+	.meet-text-2block{
+		flex-wrap: wrap;
+		justify-content: center;
+	}
+
+	.big-block{
+		width: 56%;
+	}
+
+	.small-block{
+		padding-top:20px;
+		flex-wrap: wrap;
+		justify-content: space-around;
+		height: 45.8%;
+	}
+
+	.small{
+		width: 34.13%;
+   		height: 49%;
+	}
+
+	.small:hover .block-name{
+		font-size: 7px;
+	}
+
+/* 5 */
+	.desing-container{
+		margin-top:170px;
+		padding-top:20px;
+	}
+
+	.mainDesing{
+		font-size: 20px;
+		text-align: center;
+	}
+
+	.lorem-5-container{
+		padding-top:20px;
+		font-size: 11px;
+		padding-bottom: 32px;
+		text-align: center;
+	}
+
+	.input-4-container{
+  	    padding-bottom: 20px;
+  	    width: 100%;
+  	    flex-direction: column;
+  	    height: auto;
+  	    align-items: center;
+	}
+
+	.EmailAdress{
+		padding-left: 15px;
+		font-size: 10px;
+		width: 93%;
+		margin-bottom: 20px;
+		
+	}
+
+	.sub-button{
+		margin-left: 0px;
+    	width: 99px;
+    	font-size: 10px;
+    	height: 32px;
+	} 
+	
+/* 6 */
+	
+	.get-1container{
+
+		margin-top:30px
+	}
+
+	.get-1block{
+	align-items: center;
+	}
+
+	.mainGet{
+		justify-content: center;
+		font-size: 20px;
+		width: 51%;
+	}
+
+	.lorem-6-container{
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		padding-top:10px;
+		font-size:11px;
+		width: 100%;
+
+	}
+
+	.hr-get{
+		width: 43%;
+	   	margin-top: 25px;
+	
+	}
+
+	.get-1block{
+		padding-bottom: 35px;
+	}
+
+	.get-2-1block {
+	    padding-right: 5.5%;
+	    width: 46.42%;
+	    height: 100%;
+	    display: flex;
+	    flex-direction: column;
+	}
+
+	.name-email{
+		height: 28px;
+		flex-wrap: wrap;
+		padding-bottom: 26px;
+	}
+
+	.input-name{
+		width: 100%;
+		padding-left:5px;
+		font-size: 12px;
+		margin-bottom: 10px;
+
+
+	}
+
+	.input-mail{
+		width: 100%;
+		padding-left:5px;
+		font-size: 12px;
+		
+	}
+
+	textarea{
+		width: 95%;
+		height: 108px;
+		padding-left:5px;
+		font-size: 12px;
+		padding-top:17px;
+		margin-top: 30px;
+	}
+	
+	.send-message{
+	    font-size: 7px;
+   		height: 25px;
+   		margin-top:15px;
+	}
+	
+	.contact-info{
+		width: 44.21%;
+	}
+
+	.contactin{
+		margin-left: 28px;
+		margin-top:54px;
+		font-size: 8px;
+		height: 116px;
+	}
+
+	.inner-footer{
+		margin-top: 20px;
+		height: 77px;
+	}
+	
+	.social-foot{
+		font-size: 10px;
+	    height: 64px;
+	}
+
+	.socialicon{
+		float: right;
+		margin-left: 5px;
+	}
+
+}
+
+@media(min-width: 381px) and (max-width: 768px){
+/* 1 */
+	.wrapper{
+		width: 100%;
+    	height: 100%;
+    	margin: 0px;
+    	padding: 0px;
+    	overflow-x: hidden;
+    } 
+	.our-container{
+		 padding-top: 30px;
+	}
+
+	.inner-header{
+		height: 70px;
+	}
+
+	.nav{
+		width: 97%;
+		height: 50px;
+		font-size: 14px;
+	}
+
+	.home,.portfolio,.aboutUs,.contact{
+		height: 50px;
+	}
+
+	.our-text-main{
+		flex-direction: column;
+		align-items: center;
+		width: 97%;
+		padding-bottom: 25px;
+	}
+
+	.ourStrongOrg {
+    	width: 91.317854%;
+    	display: flex;
+    	flex-direction: column;
+    	align-items: center;
+	}
+
+	.mainOur{
+		display: flex;
+		justify-content: center;
+		font-size: 25px;
+	}
+
+	.lorem{
+		width: 266px;
+    	padding-top: 10px;
+    	font-size: 13px;
+	}
+
+	.buttonContact{
+		justify-content: center;
+		height: 48px;
+		padding-bottom: 20px;
+	}
+
+	.contactUs{
+		width: 99px;
+    	font-size: 13px;
+    	height: 32px;
+	}
+
+	.video1{
+		padding-left: 0px;
+		width: 260px;
+		height: 157px;
+	}
+
+	iframe{
+		box-shadow: 0 0 60px rgb(202,198,198);
+	}
+
+/* 2 */
+	.doYou-text-main{
+		width: 97%;
+    	flex-direction: column;
+    	padding-top: 20px;
+	}
+
+	.doYouKnow {
+	    display: flex;
+	    align-items: center;
+	    flex-direction: column;
+	    width: 97%;
+   	}
+
+	.mainDoYou{
+		display: flex;
+    	justify-content: center;
+    	font-size: 25px;
+    	width: 70%;
+    	text-align: center;
+	}
+
+	.lorem-2-container{
+		width: 59.2%;
+		padding-top: 10px;
+		font-size: 13px;
+	}
+
+	.buttonLearn{
+		justify-content: center;
+    	height: 48px;
+    	padding-bottom: 20px;
+	}
+
+	.learnMore{
+		width: 99px;
+    	font-size: 13px;
+    	height: 32px;
+	}
+
+	.services{
+		width: 100%;
+		padding-left: 0px;
+	}
+
+	.text-services{
+		font-size: 11px;
+		padding-top: 0px;
+	}
+	
+	.management {
+    	padding-bottom: 10px;
+   	}
+
+	.services-main{
+		font-size: 8px;
+	}
+
+	.animation{
+		padding-top: 0px;
+	}
+
+	.Logo-Branding{
+		padding-top: 0px;
+	}
+
+	.logo-man, .logo-bran,.logo-UI{
+		width: 25.92px;
+		height: 25.05px;
+	}
+
+	.logo-anim{
+		width: 33.33px;
+		height: 21.97px;
+	}
+
+	.UI-UX-Design {
+       padding-bottom: 10px;
+	}
+
+	.services-main {
+    	font-size: 16px;
+	}
+
+	.lorem-2-2{
+		padding-top: 5px;
+		font-size: 13px;
+	}
+
+	.line-hr{
+		padding-top: 10px;
+		width: 97%;
+	}
+
+/* 3 */
+	.feature-contatiner{
+		padding-top: 0px;
+	}
+	
+	.feature-text-main{
+		width: 97%;
+	}
+
+	.mainFeature{
+		padding-top: 20px;
+		font-size: 25px;
+	}
+
+	.lorem-3-container{
+		width: 60%;
+		padding-top: 10px;
+		font-size: 13px;
+		padding-bottom: 20px;
+	}
+
+	.hr-feature{
+		margin-top: 20px;
+		height: 2px;
+		width: 43%;
+	}
+
+	.feature-but{
+		font-size: 14px;
+	}
+
+	.feature-nav{
+		width: 100%;
+     }
+
+	.feature-2block{
+		padding-top: 20px;
+	}
+	.block{
+		width: 144px;
+    	height: 144px;
+		margin-bottom: 11px;
+	}
+	
+/* 4 */
+	.meet-container{
+		padding-top:20px;
+	}
+
+	.mainMeet{
+		width: 100%;
+		font-size: 25px;
+		justify-content: center;
+	}
+
+	.meet-text-1block {
+	    align-items: center;
+	}
+
+	.lorem-4-container{
+		padding-top:15px;
+		font-size: 13px;
+		width: 69%;
+	}
+	
+	.hr-meet{
+		width: 43%;
+		margin-top: 15px;
+		margin-left: 24%;
+	}
+
+	.meet-text-2block{
+		padding-top:15px;
+	}
+
+	.big-block{
+		width: 60%;
+    	height: 47%;
+	}
+
+	.markWaugh-block{
+		width: 100%;
+		padding-top:20px;
+		padding-left: 0px;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+	}
+
+	.mark-main{
+		align-items: center;
+	}
+
+	.markWaugh{
+		width: 100%;
+    	font-size: 20px;
+    	justify-content: center;
+    	display: flex;		
+	}
+
+	.mark-lorem{
+		width: 113%;
+    	font-size: 13px;
+    	padding-top: 20px;
+	}
+
+	.facebook-block{
+		color: black;
+		font-size: 13px;
+		padding-top: 45px;
+		width: 83%;
+		height: 0px;
+	}
+
+	.social{
+		display: flex;
+		justify-content: center;
+		color:black;
+		height: 20px;
+
+	}
+
+
+
+	.meet-text-2block{
+		flex-wrap: wrap;
+		justify-content: center;
+	}
+
+	.big-block{
+		width: 56%;
+		height: 68%;
+	}
+
+	.small-block{
+		padding-top:20px;
+		flex-wrap: wrap;
+		justify-content: space-around;
+		height: 45.8%;
+	}
+
+	.small{
+		width: 19.13%;
+    	height: 60%;
+	}
+
+	.small:hover .block-name{
+		font-size: 7px;
+	}
+
+/* 5 */
+	.desing-container{
+		margin-top:170px;
+		padding-top:20px;
+	}
+
+	.mainDesing{
+		font-size: 25px;
+		text-align: center;
+	}
+
+	.lorem-5-container{
+		padding-top:20px;
+		font-size: 13px;
+		padding-bottom: 32px;
+		text-align: center;
+	}
+
+	.input-4-container{
+  	    padding-bottom: 20px;
+  	    width: 100%;
+  	    flex-direction: column;
+  	    height: auto;
+  	    align-items: center;
+	}
+
+	.EmailAdress{
+		padding-left: 15px;
+		font-size: 10px;
+		width: 93%;
+		height: 40px;
+		margin-bottom: 20px;
+		
+	}
+
+	.sub-button{
+		margin-left: 0px;
+    	width: 99px;
+    	font-size: 13px;
+    	height: 32px;
+	} 
+	
+/* 6 */
+	
+	.get-1container{
+
+		margin-top:30px
+	}
+
+	.get-1block{
+	align-items: center;
+	}
+
+	.mainGet{
+		justify-content: center;
+		font-size: 25px;
+		width: 51%;
+	}
+
+	.lorem-6-container{
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		padding-top:10px;
+		font-size:13px;
+		width: 100%;
+
+	}
+
+	.hr-get{
+		width: 43%;
+	   	margin-top: 25px;
+	
+	}
+
+	.get-1block{
+		padding-bottom: 35px;
+	}
+
+	.get-2-1block {
+	    padding-right: 5.5%;
+	    width: 46.42%;
+	    height: 100%;
+	    display: flex;
+	    flex-direction: column;
+	}
+
+	.name-email{
+		height: 28px;
+		flex-wrap: wrap;
+		padding-bottom: 26px;
+	}
+
+	.input-name{
+		width: 100%;
+		padding-left:5px;
+		font-size: 12px;
+		margin-bottom: 10px;
+
+
+	}
+
+	.input-mail{
+		width: 100%;
+		padding-left:5px;
+		font-size: 12px;
+		
+	}
+
+	textarea{
+		width: 95%;
+		height: 108px;
+		padding-left:5px;
+		font-size: 12px;
+		padding-top:17px;
+		margin-top: 30px;
+	}
+	
+	.send-message{
+	    font-size: 13px;
+   		height: 25px;
+   		margin-top:15px;
+	}
+	
+	.contact-info{
+		width: 44.21%;
+	}
+
+	.contactin{
+		margin-left: 51px;
+		margin-top:54px;
+		font-size: 12px;
+		height: 116px;
+	}
+
+	.inner-footer{
+		margin-top: 20px;
+		height: 77px;
+	}
+	
+	.social-foot{
+		font-size: 13px;
+	    height: 64px;
+	}
+
+	.socialicon{
+		float: right;
+		margin-left: 5px;
+	}
+
+}
+
+@media(min-width: 769px) and (max-width: 992px){
+/* 1 */
+	.wrapper{
+		width: 100%;
+    	height: 100%;
+    	margin: 0px;
+    	padding: 0px;
+    	overflow-x: hidden;
+    } 
+	.our-container{
+		 padding-top: 30px;
+	}
+
+	.inner-header{
+		height: 70px;
+	}
+
+	.nav{
+		width: 97%;
+		height: 50px;
+		font-size: 14px;
+	}
+
+	.home,.portfolio,.aboutUs,.contact{
+		height: 50px;
+	}
+
+	.our-text-main{
+		flex-direction: column;
+		align-items: center;
+		width: 97%;
+		padding-bottom: 25px;
+	}
+
+	.ourStrongOrg {
+    	width: 91.317854%;
+    	display: flex;
+    	flex-direction: column;
+    	align-items: center;
+	}
+
+	.mainOur{
+		display: flex;
+		justify-content: center;
+		font-size: 25px;
+	}
+
+	.lorem{
+		width: 266px;
+    	padding-top: 10px;
+    	font-size: 13px;
+	}
+
+	.buttonContact{
+		justify-content: center;
+		height: 48px;
+		padding-bottom: 20px;
+	}
+
+	.contactUs{
+		width: 99px;
+    	font-size: 13px;
+    	height: 32px;
+	}
+
+	.video1{
+		padding-left: 0px;
+		width: 260px;
+		height: 157px;
+	}
+
+	iframe{
+		box-shadow: 0 0 60px rgb(202,198,198);
+	}
+
+/* 2 */
+	.doYou-text-main{
+		width: 97%;
+    	flex-direction: column;
+    	padding-top: 20px;
+	}
+
+	.doYouKnow {
+	    display: flex;
+	    align-items: center;
+	    flex-direction: column;
+	    width: 97%;
+   	}
+
+	.mainDoYou{
+		display: flex;
+    	justify-content: center;
+    	font-size: 25px;
+    	width: 70%;
+    	text-align: center;
+	}
+
+	.lorem-2-container{
+		width: 59.2%;
+		padding-top: 10px;
+		font-size: 13px;
+	}
+
+	.buttonLearn{
+		justify-content: center;
+    	height: 48px;
+    	padding-bottom: 20px;
+	}
+
+	.learnMore{
+		width: 99px;
+    	font-size: 13px;
+    	height: 32px;
+	}
+
+	.services{
+		width: 100%;
+		padding-left: 0px;
+	}
+
+	.text-services{
+		font-size: 11px;
+		padding-top: 0px;
+	}
+	
+	.management {
+    	padding-bottom: 10px;
+   	}
+
+	.services-main{
+		font-size: 8px;
+	}
+
+	.animation{
+		padding-top: 0px;
+	}
+
+	.Logo-Branding{
+		padding-top: 0px;
+	}
+
+	.logo-man, .logo-bran,.logo-UI{
+		width: 25.92px;
+		height: 25.05px;
+	}
+
+	.logo-anim{
+		width: 33.33px;
+		height: 21.97px;
+	}
+
+	.UI-UX-Design {
+       padding-bottom: 10px;
+	}
+
+	.services-main {
+    	font-size: 16px;
+	}
+
+	.lorem-2-2{
+		padding-top: 5px;
+		font-size: 13px;
+	}
+
+	.line-hr{
+		padding-top: 10px;
+		width: 97%;
+	}
+
+/* 3 */
+	.feature-contatiner{
+		padding-top: 0px;
+	}
+	
+	.feature-text-main{
+		width: 97%;
+	}
+
+	.mainFeature{
+		padding-top: 20px;
+		font-size: 25px;
+	}
+
+	.lorem-3-container{
+		width: 60%;
+		padding-top: 10px;
+		font-size: 13px;
+		padding-bottom: 20px;
+	}
+
+	.hr-feature{
+		margin-top: 20px;
+		height: 2px;
+		width: 43%;
+	}
+
+	.feature-but{
+		font-size: 14px;
+	}
+
+	.feature-nav{
+		width: 100%;
+     }
+
+	.feature-2block{
+		padding-top: 20px;
+	}
+	.block{
+		width: 144px;
+    	height: 144px;
+		margin-bottom: 11px;
+	}
+	
+/* 4 */
+	.meet-container{
+		padding-top:20px;
+	}
+
+	.mainMeet{
+		width: 100%;
+		font-size: 25px;
+		justify-content: center;
+	}
+
+	.meet-text-1block {
+	    align-items: center;
+	}
+
+	.lorem-4-container{
+		padding-top:15px;
+		font-size: 13px;
+		width: 69%;
+	}
+	
+	.hr-meet{
+		width: 43%;
+		margin-top: 15px;
+		margin-left: 24%;
+	}
+
+	.meet-text-2block{
+		padding-top:15px;
+	}
+
+	.big-block{
+		width: 60%;
+    	height: 47%;
+	}
+
+	.markWaugh-block{
+		width: 100%;
+		padding-top:20px;
+		padding-left: 0px;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+	}
+
+	.mark-main{
+		align-items: center;
+	}
+
+	.markWaugh{
+		width: 100%;
+    	font-size: 20px;
+    	justify-content: center;
+    	display: flex;		
+	}
+
+	.mark-lorem{
+		width: 113%;
+    	font-size: 13px;
+    	padding-top: 20px;
+	}
+
+	.facebook-block{
+		color: black;
+		font-size: 13px;
+		padding-top: 45px;
+		width: 83%;
+		height: 0px;
+	}
+
+	.social{
+		display: flex;
+		justify-content: center;
+		color:black;
+		height: 20px;
+
+	}
+
+
+
+	.meet-text-2block{
+		flex-wrap: wrap;
+		justify-content: center;
+	}
+
+	.big-block{
+		width: 56%;
+		height: 68%;
+	}
+
+	.small-block{
+		padding-top:20px;
+		flex-wrap: wrap;
+		justify-content: space-around;
+		height: 45.8%;
+	}
+
+	.small{
+		width: 19.13%;
+    	height: 60%;
+	}
+
+	.small:hover .block-name{
+		font-size: 7px;
+	}
+
+/* 5 */
+	.desing-container{
+		margin-top:170px;
+		padding-top:20px;
+	}
+
+	.mainDesing{
+		font-size: 25px;
+		text-align: center;
+	}
+
+	.lorem-5-container{
+		padding-top:20px;
+		font-size: 13px;
+		padding-bottom: 32px;
+		text-align: center;
+	}
+
+	.input-4-container{
+  	    padding-bottom: 20px;
+  	    width: 100%;
+  	    flex-direction: column;
+  	    height: auto;
+  	    align-items: center;
+	}
+
+	.EmailAdress{
+		padding-left: 15px;
+		font-size: 10px;
+		width: 93%;
+		height: 40px;
+		margin-bottom: 20px;
+		
+	}
+
+	.sub-button{
+		margin-left: 0px;
+    	width: 99px;
+    	font-size: 13px;
+    	height: 32px;
+	} 
+	
+/* 6 */
+	
+	.get-1container{
+
+		margin-top:30px
+	}
+
+	.get-1block{
+	align-items: center;
+	}
+
+	.mainGet{
+		justify-content: center;
+		font-size: 25px;
+		width: 51%;
+	}
+
+	.lorem-6-container{
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		padding-top:10px;
+		font-size:13px;
+		width: 100%;
+
+	}
+
+	.hr-get{
+		width: 43%;
+	   	margin-top: 25px;
+	
+	}
+
+	.get-1block{
+		padding-bottom: 35px;
+	}
+
+	.get-2-1block {
+	    padding-right: 5.5%;
+	    width: 46.42%;
+	    height: 100%;
+	    display: flex;
+	    flex-direction: column;
+	}
+
+	.name-email{
+		height: 28px;
+		flex-wrap: wrap;
+		padding-bottom: 26px;
+	}
+
+	.input-name{
+		width: 100%;
+		padding-left:5px;
+		font-size: 12px;
+		margin-bottom: 10px;
+
+
+	}
+
+	.input-mail{
+		width: 100%;
+		padding-left:5px;
+		font-size: 12px;
+		
+	}
+
+	textarea{
+		width: 95%;
+		height: 108px;
+		padding-left:5px;
+		font-size: 12px;
+		padding-top:17px;
+		margin-top: 30px;
+	}
+	
+	.send-message{
+	    font-size: 13px;
+   		height: 25px;
+   		margin-top:15px;
+	}
+	
+	.contact-info{
+		width: 44.21%;
+	}
+
+	.contactin{
+		margin-left: 14px;
+		margin-top:54px;
+		font-size: 12px;
+		height: 116px;
+	}
+
+	.inner-footer{
+		margin-top: 20px;
+		height: 77px;
+	}
+	
+	.social-foot{
+		font-size: 13px;
+	    height: 64px;
+	}
+
+	.socialicon{
+		float: right;
+		margin-left: 5px;
+	}
+
+}

@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Ajax-4</title>
+  </head>
+  <body>
+    <form  method="POST" action="http://ajax.markello.info/a3.php">
+      <p>Выберит пол:</p>
+      <p><input name="sex" type="radio" value="man" > Мужчина</p>
+      <p><input name="sex" type="radio" value="woman"> Женщина</p>
+      <p id="one"></p>
+      <input type="range" min="0" id="r" max="250" step="1" name="height" value="0" oninput="fun1()"> 
+      <br><br>
+      
+      <button type="submit">Идеальный вес</button>
+    </form>
+    
+    <p id="content"></p>
+    
+       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+     <script type="text/javascript" src="js/main.js"></script>
+  </body>
+</html>
